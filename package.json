@@ -1,0 +1,11 @@
+{
+  "name": "dockerized-codejeptjs",
+  "private": "false",
+  "scripts": {
+    "test": "codeceptjs run"
+  },
+  "dependencies": {
+    "codeceptjs": "3.4.1",
+    "webdriverio": "8.10.7"
+  }
+}
